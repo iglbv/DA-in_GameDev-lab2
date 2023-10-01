@@ -53,10 +53,3 @@ Mortal Kombat 9 (2011) - концепция игры заключается в �
 ## Выводы
 
 Мы научились передавать в Unity данные из Google Sheets с помощью Python. Это нужно для ведения документации / дизайн и концепт-доков в распределенных онлайн - системах.
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Powered by
-
-**BigDigital Team: Denisov | Fadeev | Panov**
